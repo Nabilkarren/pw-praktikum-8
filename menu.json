@@ -1,0 +1,84 @@
+{
+    "menu" : [
+        {
+            "jenis" : "makanan" ,
+            "nama" : "Steak Sapi Amazon" ,
+            "deskripsi" : "Steak dengan kenikmatan yang luar biasa dan bernuansa Amazon" ,
+            "harga" : 500000 ,
+            "estimasi" : "5 Jam" ,
+            "gambar" : "Gambar/Steak2.jpg"
+        },
+        {
+            "jenis" : "makanan" ,
+            "nama" : "Roti Jala Mak Limah" ,
+            "deskripsi" : "Roti jala terbuat dari gandum yang sangat mahal dari Alaska" ,
+            "harga" : 350000 ,
+            "estimasi" : "20 Menit" ,
+            "gambar" : "Gambar/rotijala2.jpg"
+        },
+        {
+            "jenis" : "dessert" ,
+            "nama" : "Pastry Cake" ,
+            "deskripsi" : "Kue pastri merupakan hidangan penutup yang cocok untuk anda" ,
+            "harga" : 73000 ,
+            "estimasi" : "10 Menit" ,
+            "gambar" : "Gambar/pastrycake.jpg"
+        },
+        {
+            "jenis" : "minuman" ,
+            "nama" : "Pomegranate Fizz" ,
+            "deskripsi" : "Minuman segar yang cocok untuk malam hari" ,
+            "harga" : 20000 ,
+            "estimasi" : "10 Menit" ,
+            "gambar" : "Gambar/fizz.jpg"
+        },
+        {
+            "jenis" : "dessert" ,
+            "nama" : "Pumpkin Pie" ,
+            "deskripsi" : "Hidangan penutup yang manis dan cocok di lidah" ,
+            "harga" : 15000 ,
+            "estimasi" : "5 Menit" ,
+            "gambar" : "Gambar/pumpkin3.jpg"
+        },
+        {
+            "jenis" : "makanan" ,
+            "nama" : "Sate Klathak" ,
+            "deskripsi" : "Hidangan khas Jogja yang disantap dengan kuah kari bersama dengan nasi" ,
+            "harga" : 30000 ,
+            "estimasi" : "25 Menit" ,
+            "gambar" : "Gambar/sate2.jpg"
+        },
+        {
+            "jenis" : "minuman" ,
+            "nama" : "Italy Fuzz" ,
+            "deskripsi" : "Minuman khas italy dengan poppin bubble sebagai topping" ,
+            "harga" : 25000 ,
+            "estimasi" : "10 Menit" ,
+            "gambar" : "Gambar/italydrink.jpg"
+        },
+        {
+            "jenis" : "dessert" ,
+            "nama" : "Apple Pie" ,
+            "deskripsi" : "Hidangan penutup manis yang disantap dengan buah apel segar" ,
+            "harga" : 32000 ,
+            "estimasi" : "10 Menit" ,
+            "gambar" : "Gambar/applepie2.jpg"
+        },
+        {
+            "jenis" : "minuman" ,
+            "nama" : "Lemon Soda" ,
+            "deskripsi" : "Soda lemon yang segar cocok untuk siang hari" ,
+            "harga" : 14000 ,
+            "estimasi" : "5 Menit" ,
+            "gambar" : "Gambar/jarritos.jpg"
+        },
+        {
+            "jenis" : "makanan" ,
+            "nama" : "Burgir" ,
+            "deskripsi" : "Makanan yang dibuat oleh Abdu Rozik" ,
+            "harga" : 30000 ,
+            "estimasi" : "15 Menit" ,
+            "gambar" : "Gambar/burgir1.jpg"
+        }
+    ]
+}
